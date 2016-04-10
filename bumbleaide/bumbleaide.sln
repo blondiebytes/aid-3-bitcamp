@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D55CA562-00B9-279A-9843-C0A620AFCE80}") = "bumbleaide", "Assembly-CSharp.csproj", "{DCD47A77-7B25-5E31-9EDC-42C4F0E1E706}"
+EndProject
+Project("{D55CA562-00B9-279A-9843-C0A620AFCE80}") = "bumbleaide", "Assembly-CSharp-Editor.csproj", "{80152406-E5CD-C767-B95F-8328079EB427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD47A77-7B25-5E31-9EDC-42C4F0E1E706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD47A77-7B25-5E31-9EDC-42C4F0E1E706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD47A77-7B25-5E31-9EDC-42C4F0E1E706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD47A77-7B25-5E31-9EDC-42C4F0E1E706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80152406-E5CD-C767-B95F-8328079EB427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80152406-E5CD-C767-B95F-8328079EB427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80152406-E5CD-C767-B95F-8328079EB427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80152406-E5CD-C767-B95F-8328079EB427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
