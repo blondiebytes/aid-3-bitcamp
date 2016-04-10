@@ -17,3 +17,6 @@ BumbleAidr cannot only help with early-detection of ADD, but can also help patie
 
 ## Built with
 Muse, unity, html5, css, jquery, javascript, C3, node.js, hapi.js, mongodb, mongoose, bootstrap, sparkpost-api, azure, oculus-cv1
+
+# More
+See devpost (http://devpost.com/software/bumbleaidr)
