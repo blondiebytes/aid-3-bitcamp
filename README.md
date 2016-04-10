@@ -15,5 +15,5 @@ Time - messing with the new consumer VR and installing the appropriate software 
 ## What this means?
 BumbleAidr cannot only help with early-detection of ADD, but can also help patients improve their concentration. By practicing with the virtual reality games, ADD patients can use BumbleAidr as a therapeutic treatment program and better their overall focus overtime.
 
-## Built With
+## Built with
 Muse, unity, html5, css, jquery, javascript, C3, node.js, hapi.js, mongodb, mongoose, bootstrap, sparkpost-api, azure, oculus-cv1
